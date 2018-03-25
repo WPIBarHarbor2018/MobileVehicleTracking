@@ -13,12 +13,12 @@ It can be downloaded [here](https://yarnpkg.com/lang/en/docs/install/).
 Watchman is used to detect changes in a React Native application. This tool allows the application to be automatically refreshed when testing on your mobile device.
 Installation information can be found [here](https://facebook.github.io/watchman/docs/install.html).
 
-###Install Echo
-Install the [Echo](https://expo.io/) on your IOS or Android device. This will allow you to test the application dynamically on your mobile device.
+###Install Expo
+Install the [Expo](https://expo.io/) on your IOS or Android device. This will allow you to test the application dynamically on your mobile device.
 
 
 
-## Running the Application
+##Running the Application
 
 Close the git repository.
 
@@ -28,4 +28,4 @@ In the directory you have just created, install the necessary dependencies.
 `yarn install`
 Run the development environment
 `yarn start`
-Scan the generated QR code using the Echo on your mobile device.
+Scan the generated QR code using the Expo on your mobile device.
