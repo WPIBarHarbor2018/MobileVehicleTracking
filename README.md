@@ -3,22 +3,22 @@ A vehicle-tracking mobile application developed using React Native.
 
 
 
-##Required Installations
+## Required Installations
 
-###Yarn
+### Yarn
 Yarn is a package manager for JavaScript.
 It can be downloaded [here](https://yarnpkg.com/lang/en/docs/install/).
 
-###Watchman
+### Watchman
 Watchman is used to detect changes in a React Native application. This tool allows the application to be automatically refreshed when testing on your mobile device.
 Installation information can be found [here](https://facebook.github.io/watchman/docs/install.html).
 
-###Install Expo
+### Install Expo
 Install the [Expo](https://expo.io/) on your IOS or Android device. This will allow you to test the application dynamically on your mobile device.
 
 
 
-##Running the Application
+## Running the Application
 
 Close the git repository.
 
