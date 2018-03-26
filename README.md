@@ -14,7 +14,7 @@ Watchman is used to detect changes in a React Native application. This tool allo
 Installation information can be found [here](https://facebook.github.io/watchman/docs/install.html).
 
 ### Install Expo
-Install the [Expo](https://expo.io/) on your IOS or Android device. This will allow you to test the application dynamically on your mobile device.
+Install the [Expo](https://expo.io/) app on your IOS or Android device. This will allow you to test the application dynamically on your mobile device.
 
 
 
